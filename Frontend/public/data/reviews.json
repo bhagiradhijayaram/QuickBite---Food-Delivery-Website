@@ -1,0 +1,33 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Aisha Kumar",
+      "title": "Fashion Enthusiast",
+      "review": "QuickBite has been a lifesaver during busy workdays. The food always arrives hot, fresh, and on time. Love the variety",
+      "image_url": "https://i.pinimg.com/originals/07/33/ba/0733ba760b29378474dea0fdbcb97107.png"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Patel",
+      "title": "Loyal Customer",
+      "review": "Super easy to order and track. Sometimes the delivery takes a few extra minutes, but the food quality is worth the wait.",
+      "image_url": "https://i.pinimg.com/originals/07/33/ba/0733ba760b29378474dea0fdbcb97107.png"
+    },
+    {
+      "id": 3,
+      "name": "Maya Singh",
+      "title": "Food Blogger",
+      "review": "Healthy meals delivered fast! As someone who watches calories, I appreciate the nutritional info and customizable meals.",
+
+      "image_url": "https://i.pinimg.com/originals/83/10/ab/8310ab709f70727b92fa1a6917897c82.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Karan Verma",
+      "title": "First-Time Shopper",
+      "review": "Great app interface and smooth checkout. Would love to see more local restaurant options, but overall, very satisfied.",
+      "image_url": "https://cdn.getmerlin.in/cms/merlin_blog_types_of_profile_pictures_professional_profile_picture_43d9a8e4b9.png"
+    }
+  ]
+}

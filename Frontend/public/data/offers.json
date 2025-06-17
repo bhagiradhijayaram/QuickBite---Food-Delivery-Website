@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Flat ₹100 Off",
+    "description": "Save ₹100 instantly on your meal when you order above ₹499. Perfect for big family dinners or group treats!",
+    "code": "FLAT100",
+    "minOrderValue": 499,
+    "discountType": "flat",
+    "discountValue": 100,
+    "validTill": "2025-06-30",
+    "restaurantId": null,
+    "imageUrl": "/images/offers/biryani-offer.jpg",
+    "conditions": [
+      "Applicable once per user.",
+      "Offer valid only on online payments.",
+      "Cannot be clubbed with other offers.",
+      "Minimum order value must be ₹499 excluding delivery charges."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "25% Off on All Orders",
+    "description": "Enjoy a flat 25% discount on your order — no minimum amount required. Treat yourself anytime, guilt-free!",
+    "code": "SAVE25",
+    "minOrderValue": 0,
+    "discountType": "percentage",
+    "discountValue": 25,
+    "validTill": "2025-06-25",
+    "restaurantId": null,
+    "imageUrl": "/images/offers/all-offer.jpg",
+    "conditions": [
+      "Maximum discount ₹100 per order.",
+      "Valid only for selected users.",
+      "Not applicable on combos or deals.",
+      "Offer valid till stocks last."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "BOGO on Pizzas",
+    "description": "Order any medium pizza from Pizza Palace and get another absolutely FREE! Double the fun, same price.",
+    "code": "BOGOPIZZA",
+    "minOrderValue": 300,
+    "discountType": "bogo",
+    "discountValue": null,
+    "validTill": "2025-07-01",
+    "restaurantId": 12,
+    "imageUrl": "/images/offers/pizza-offer.jpg",
+    "conditions": [
+      "Free item will be of equal or lesser value.",
+      "Only valid on medium-sized pizzas.",
+      "Applicable only at Pizza Palace outlets.",
+      "Offer cannot be used with other pizza deals."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "₹150 Cashback with PayX",
+    "description": "Pay using PayX Wallet and enjoy ₹150 cashback on orders above ₹599. Great savings with your favorite wallet!",
+    "code": "PAYX150",
+    "minOrderValue": 599,
+    "discountType": "cashback",
+    "discountValue": 150,
+    "validTill": "2025-07-05",
+    "restaurantId": null,
+    "imageUrl": "/images/offers/payment-offer.jpg",
+    "conditions": [
+      "Cashback will be credited within 48 hours.",
+      "Only valid for PayX Wallet users.",
+      "Cashback capped at ₹150 per transaction.",
+      "Valid on first 3 PayX payments in June."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Exclusive 30% Off - BurgerHub",
+    "description": "Get a delicious 30% discount on all items at BurgerHub! Ideal for juicy burgers and sides. Max discount ₹120.",
+    "code": "BURGER30",
+    "minOrderValue": 350,
+    "discountType": "percentage",
+    "discountValue": 30,
+    "maxDiscount": 120,
+    "validTill": "2025-06-20",
+    "restaurantId": 21,
+    "imageUrl": "/images/offers/burger-offer.jpg",
+    "conditions": [
+      "Only valid at BurgerHub restaurants.",
+      "Discount applies to food items only.",
+      "Delivery charges not included in discount.",
+      "User must be logged in to apply the offer."
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "categories": [
+    {
+      "id": 7,
+      "name": "ALL",
+      "image": "/images/categories/biryani.png"
+    },
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "/images/categories/pizza.png"
+    },
+    {
+      "id": 2,
+      "name": "Burgers",
+      "image": "/images/categories/burgers.png"
+    },
+    {
+      "id": 3,
+      "name": "Indian",
+      "image": "/images/categories/indian.png"
+    },
+    {
+      "id": 4,
+      "name": "Chinese",
+      "image": "/images/categories/chinese.png"
+    },
+    {
+      "id": 5,
+      "name": "Desserts",
+      "image": "/images/categories/desserts.png"
+    },
+    {
+      "id": 6,
+      "name": "Biryani",
+      "image": "/images/categories/biryani.png"
+    }
+  ],
+  "menuItems": [
+    {
+      "id": 101,
+      "restaurantId": 1,
+      "name": "Butter Chicken",
+      "description": "Creamy tomato-based curry with grilled chicken",
+      "price": 250,
+      "image": "/images/foods/butter_chicken.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": 102,
+      "restaurantId": 1,
+      "name": "Paneer Tikka",
+      "description": "Grilled cottage cheese cubes with spices spices",
+      "price": 180,
+      "image": "/images/foods/paneer_tikka.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": 103,
+      "restaurantId": 1,
+      "name": "Chole Bhature",
+      "description": "Spicy chickpeas served with fried Indian bread",
+      "price": 160,
+      "image": "/images/foods/chole_bhature.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": 104,
+      "restaurantId": 2,
+      "name": "Cheeseburger",
+      "description": "Beef patty with melted cheese and veggies",
+      "price": 150,
+      "image": "/images/foods/cheeseburger.jpg",
+      "category": "Burgers"
+    },
+    {
+      "id": 105,
+      "restaurantId": 3,
+      "name": "Pepperoni Pizza",
+      "description": "Loaded with pepperoni and mozzarella",
+      "price": 250,
+      "image": "/images/foods/pepperoni_pizza.jpeg",
+      "category": "Pizza"
+    },
+    {
+      "id": 106,
+      "restaurantId": 2,
+      "name": "Double Cheese Burger",
+      "description": "Double beef patties with extra cheese",
+      "price": 130,
+      "image": "/images/foods/double_cheese_burger.jpeg",
+      "category": "Burgers"
+    },
+    {
+      "id": 107,
+      "restaurantId": 3,
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with tomato, mozzarella, and basil",
+      "price": 200,
+      "image": "/images/foods/margherita_pizza.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 108,
+      "restaurantId": 2,
+      "name": "Veggie Burger",
+      "description": "Fresh veggie patty with lettuce and tomato",
+      "price": 130,
+      "image": "/images/foods/veggie_burger.jpg",
+      "category": "Burgers"
+    },
+    {
+      "id": 109,
+      "restaurantId": 1,
+      "name": "Rasmalai",
+      "description": "Soft cheese dumplings soaked in flavored milk",
+      "price": 220,
+      "image": "/images/foods/rasmalai.jpeg",
+      "category": "Desserts"
+    },
+    {
+      "id": 110,
+      "restaurantId": 1,
+      "name": "Chicken Biryani",
+      "description": "Spiced basmati rice cooked with chicken",
+      "price": 230,
+      "image": "/images/foods/chicken_biryani.jpg",
+      "category": "Biryani"
+    },
+    {
+      "id": 111,
+      "restaurantId": 1,
+      "name": "Mutton Biryani",
+      "description": "Tender mutton layered with aromatic rice",
+      "price": 270,
+      "image": "/images/foods/mutton_biryani.jpg",
+      "category": "Biryani"
+    },
+    {
+      "id": 112,
+      "restaurantId": 1,
+      "name": "Veg Manchurian",
+      "description": "Deep-fried veggie balls in Manchurian gravy",
+      "price": 190,
+      "image": "/images/foods/veg_manchurian.jpg",
+      "category": "Chinese"
+    },
+    {
+      "id": 113,
+      "restaurantId": 1,
+      "name": "Veg Biryani",
+      "description": "Mixed vegetables with saffron rice",
+      "price": 180,
+      "image": "/images/foods/veg_biryani.jpg",
+      "category": "Biryani"
+    },
+    {
+      "id": 114,
+      "restaurantId": 1,
+      "name": "Noodles",
+      "description": "Fragrant basmati rice cooked with spiced chicken",
+      "price": 220,
+      "image": "/images/foods/noodles.jpg",
+      "category": "Chinese"
+    },
+    {
+      "id": 115,
+      "restaurantId": 1,
+      "name": "Fried Rice",
+      "description": "Stir-fried rice with veggies and soy sauce",
+      "price": 220,
+      "image": "/images/foods/fried_rice.jpg",
+      "category": "Chinese"
+    },
+
+    {
+      "id": 116,
+      "restaurantId": 3,
+      "name": "Veggie Delight Pizza",
+      "description": "Pizza topped with mushrooms, onions, and bell peppers",
+      "price": 250,
+      "image": "/images/foods/veggie_delight_pizza.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 117,
+      "restaurantId": 1,
+      "name": "Chocolate Ice Cream",
+      "description": "Rich chocolate flavored ice cream",
+      "price": 220,
+      "image": "/images/foods/ice_cream.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 118,
+      "restaurantId": 1,
+      "name": "Egg Biryani",
+      "description": "Boiled eggs layered with spiced rice",
+      "price": 190,
+      "image": "/images/foods/egg_biryani.jpg",
+      "category": "Biryani"
+    }
+  ]
+}
