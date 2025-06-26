@@ -4,8 +4,6 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ---
 
----
-
 ## 🔧 Tech Stack
 
 **Frontend:**
