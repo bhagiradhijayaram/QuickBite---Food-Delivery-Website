@@ -67,4 +67,10 @@ QuickBite is a modern and responsive food delivery web application that allows u
 https://github.com/bhagiradhijayaram/QuickBite---Food-Delivery-Website.git
 cd QuickBite
 
+cd Frontend
+npm install
+npm run dev
+
+
+
 
