@@ -22,7 +22,7 @@ QuickBite is a modern and responsive food delivery web application that allows u
 - Cookies for token storage
 
 **Deployment:**
-- Frontend: Vercel
+- Frontend: Netlify
 - Backend: Render
 
 ---
@@ -43,7 +43,7 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ## 🚀 Live Demo
 
-🌐 [View Live Project](https://your-live-link.vercel.app)  
+🌐 [View Live Project](https://quickbite5.netlify.app/)  
 📹 [Watch Demo Video](#) *(optional)*
 
 
