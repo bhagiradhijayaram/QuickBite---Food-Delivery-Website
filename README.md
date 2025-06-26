@@ -1,10 +1,6 @@
-### 🍔 QuickBite - Food Delivery Website
-
-QuickBite is a modern and responsive food delivery web application that allows users to browse restaurants, explore menus, and place orders seamlessly. Built with a focus on user experience, the platform offers intuitive navigation, a clean UI, and smooth cart functionality — ideal for both mobile and desktop users.
-
 # 🍔 QuickBite — Modern Food Delivery Web App
 
-QuickBite is a sleek, fully responsive food delivery web application built with a focus on smooth user experience and clean UI. It allows users to browse restaurants, explore menus, add food items to their cart, and complete checkout — all within a fast and intuitive interface.
+QuickBite is a modern and responsive food delivery web application that allows users to browse restaurants, explore menus, and place orders seamlessly. Built with a focus on user experience, the platform offers intuitive navigation, a clean UI, and smooth cart functionality — ideal for both mobile and desktop users.
 
 ---
 
