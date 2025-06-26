@@ -4,11 +4,6 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ---
 
-## 🚀 Live Demo
-
-🌐 [View Live Project](https://your-live-link.vercel.app)  
-📹 [Watch Demo Video](#) *(optional)*
-
 ---
 
 ## 🔧 Tech Stack
@@ -47,5 +42,10 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ---
 
-## 📁 Folder Structure
+
+## 🚀 Live Demo
+
+🌐 [View Live Project](https://your-live-link.vercel.app)  
+📹 [Watch Demo Video](#) *(optional)*
+
 
