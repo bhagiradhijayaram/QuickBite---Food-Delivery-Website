@@ -1,4 +1,4 @@
-# 🍔 QuickBite — Modern Food Delivery Web App
+### 🍔 QuickBite — Modern Food Delivery Web App
 
 QuickBite is a modern and responsive food delivery web application that allows users to browse restaurants, explore menus, and place orders seamlessly. Built with a focus on user experience, the platform offers intuitive navigation, a clean UI, and smooth cart functionality — ideal for both mobile and desktop users.
 
@@ -56,5 +56,15 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ![Screenshot (690)](https://github.com/user-attachments/assets/3d436efb-0174-454f-a329-15917e3a3641)
 
+
+---
+
+## 🛠️ Getting Started Locally
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/QuickBite.git
+cd QuickBite
 
 
