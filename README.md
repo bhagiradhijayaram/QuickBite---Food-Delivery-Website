@@ -48,7 +48,7 @@ QuickBite is a modern and responsive food delivery web application that allows u
 
 ## Screenshots
 
-![Screenshot (680)](https://github.com/user-attachments/assets/5e827503-d422-49e6-8bbd-fc5371c42ca7)
+![screencapture-localhost-5173-2025-06-29-07_27_27](https://github.com/user-attachments/assets/13ac6d0c-008c-4462-8cdf-629c2c57d892)
 
 ![Screenshot (686)](https://github.com/user-attachments/assets/a9e8b4a3-2eea-47f1-8f9e-be3de9bb7e68)
 
