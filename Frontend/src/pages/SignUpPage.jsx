@@ -28,7 +28,7 @@ const SignUpPage = () => {
     event.preventDefault();
     console.log(user);
     try {
-      const singUpUrl = "https://quickbite-food-delivery-website.onrender.com";
+      const singUpUrl = "https://quickbite-food-delivery-website.onrender.com/api/users/signup";
       const options = {
         method: "POST",
         headers: {
