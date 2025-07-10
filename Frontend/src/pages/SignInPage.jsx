@@ -28,7 +28,7 @@ const SignInPage = () => {
   const onSumbitForm = async (event) => {
     event.preventDefault();
     try {
-      const loginUrl = "https://quickbite-food-delivery-website.onrender.com";
+      const loginUrl = "https://quickbite-food-delivery-website.onrender.com/api/users/signin";
       const options = {
         method: "POST",
         headers: {
